@@ -1,0 +1,2 @@
+Average Temperature: 25.7
+Average Humidity: 60.4333

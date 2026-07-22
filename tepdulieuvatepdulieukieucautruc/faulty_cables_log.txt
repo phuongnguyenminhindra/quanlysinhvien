@@ -1,0 +1,18 @@
+--- DANH SACH CAP QUANG LOI ---
+Ma Cap: CABLE_HN_002
+Chieu Dai (km): 5
+He So Suy Hao (dB/km): 0.3
+Ly do loi: He so suy hao vuot muc 0.25 dB/km. 
+
+Ma Cap: CABLE_SG_003
+Chieu Dai (km): 25
+He So Suy Hao (dB/km): 0.22
+Ly do loi: Tong suy hao vuot 5.0 dB (Cham den han che chuc nang vat ly cua san pham).
+
+Ma Cap: CABLE_DN_004
+Chieu Dai (km): 30
+He So Suy Hao (dB/km): 0.28
+Ly do loi: He so suy hao vuot muc 0.25 dB/km. Tong suy hao vuot 5.0 dB (Cham den han che chuc nang vat ly cua san pham).
+
+--------------------------------
+Tong so cap loi phat hien duoc: 3

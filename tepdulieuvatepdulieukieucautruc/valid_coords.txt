@@ -1,0 +1,3 @@
+Time: 20260528091530.000, Latitude: 21.0285, Longitude: 105.854
+Time: 20260528091545.000, Latitude: 21.0288, Longitude: 105.855
+Time: 20260528091600.000, Latitude: 21.0291, Longitude: 105.855
